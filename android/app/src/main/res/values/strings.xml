@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ThriveNotes</string>
+    <string name="appwidget_description">Shows your latest notes</string>
+</resources>
