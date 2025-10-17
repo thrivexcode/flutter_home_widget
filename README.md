@@ -14,7 +14,7 @@
 ---
 
 <p align="center">
-  <img src="https://res.cloudinary.com/dkpesnimh/image/upload/v1760688089/banner_hmvdv5.gif" width="100%" alt="Flutter Home Widget Notes Banner Preview" />
+  <img src="https://res.cloudinary.com/dhhm853e7/image/upload/v1760695215/banner_1_b7rhfk.gif" width="100%" alt="Flutter Home Widget Notes Banner Preview" />
 </p>
 
 ---
@@ -42,21 +42,21 @@ Aplikasi ini juga menggunakan **Drift** untuk menyimpan catatan secara lokal (of
 
 ## ✨ Features
 
-- 🏠 **Home Widget Integration** — tampilkan note langsung di layar utama Android  
-- 💾 **Offline Local Storage** — menggunakan **Drift (SQLite)**  
-- 🧭 **Reactive UI** — update otomatis saat catatan berubah  
-- ⚡ **Lightweight** — performa cepat dan efisien untuk widget update  
+- 🏠 **Home Widget Integration** — tampilkan note langsung di layar utama Android
+- 💾 **Offline Local Storage** — menggunakan **Drift (SQLite)**
+- 🧭 **Reactive UI** — update otomatis saat catatan berubah
+- ⚡ **Lightweight** — performa cepat dan efisien untuk widget update
 
 ---
 
 ## 🧩 Tech Stack
 
-| Layer | Tools |
-|-------|--------|
-| **Frontend** | Flutter 3.27.2 |
-| **Database** | Drift (SQLite ORM for Flutter) |
-| **Widget Integration** | Home Widget Plugin |
-| **Storage** | SharedPreferences + Drift |
+| Layer                  | Tools                          |
+| ---------------------- | ------------------------------ |
+| **Frontend**           | Flutter 3.27.2                 |
+| **Database**           | Drift (SQLite ORM for Flutter) |
+| **Widget Integration** | Home Widget Plugin             |
+| **Storage**            | SharedPreferences + Drift      |
 
 ---
 
@@ -65,6 +65,8 @@ Aplikasi ini juga menggunakan **Drift** untuk menyimpan catatan secara lokal (of
 Untuk menjalankan proyek ini di lokal:
 
 ### 1. Clone Repository
+
 ```bash
 git clone https://github.com/thrivexcode/flutter_home_widget.git
 cd flutter_home_widget
+```
